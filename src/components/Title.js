@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 const Title = () => {
     return (
         <div className='title'>
-            <Link to='/' style={{textDecoration: 'none'}}>
+            <Link to='/' style={{textDecoration: 'none'} }>
                 <h1>My Image Studio</h1>
             </Link>
             <h2>Your Pictures</h2>
